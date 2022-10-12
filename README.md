@@ -1,2 +1,2 @@
-# img![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img/test.jpg)
+# img![Image text](https://raw.github.com/hinslzx/repositpry/master/img/img/test.jpg)
 
